@@ -7,8 +7,7 @@ This is a Python implementation of Conway's Game of Life. It initializes a 5x5 g
 1. Ensure you have Python installed on your machine.
 2. Clone this repository:
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/ayush-agrawal001/Python-ConwoysGameOfLife.git
     ```
 3. Run the script:
     ```bash
